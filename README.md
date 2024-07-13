@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Çağla, a computer engineering 4th-year student 
 
 <!--
 **caglakacar/caglakacar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
