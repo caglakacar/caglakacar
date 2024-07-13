@@ -1,6 +1,9 @@
 ## Hi 👋, I'm Çağla.
 A curious 4th-year computer engineering student.
 
+🔭 I’m currently working as a DevOps & Cloud intern at Servisepark.
+
+📫 You can reach me on cagla.kacar@hotmail.com
 
 <!--
 **caglakacar/caglakacar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-📫 You can reach me on cagla.kacar@hotmail.com
+- 📫 You can reach me on 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
