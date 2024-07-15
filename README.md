@@ -1,7 +1,6 @@
 ## Hi 👋, I'm Çağla.
 A curious 4th-year computer engineering student.
 
-🔭 I’m currently working as a DevOps & Cloud intern at Servisepark.
 
 
 
