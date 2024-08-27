@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+    <h2 style="text-align: center;">Hi 👋😄, I'm Çağla</h2>
+</div>
+<br>
 
-<!--
-**caglakacar/caglakacar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 About Me
 
-Here are some ideas to get you started:
+- I'm a 4th-year student of **Computer Engineering** at Üsküdar University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I've gained practical experience through internships at **NTT DATA Business Solutions, ATM Grup, and Servicepark**, working with SAP ABAP, C#, SQL, and Cloud & DevOps.
+<br>
+
+## 🚀 Skills
+- **Programming Languages:** Python, C, C++, C++ (Object-Oriented), C#
+- **Web Development:** Flutter, Firebase, Wix
+- **Data Management:** SQL, InfluxDB, SAP ABAP
+- **Tools & Frameworks:** Docker, Node-RED, Grafana, Flask, Zabbix, Telegraf, Postman
+- **Office Software:** Word, Excel, PowerPoint
+- **ERP Systems:** Bimser Synergy CSP, eBA
+- **Other:** Matlab
+<br>
+
+## 🎯 Goals
+- Work on projects related to **digital transformation** and **artificial intelligence**.
+- Further develop my software development skills.
+- Continuously learn and grow in the technology and engineering fields.
+- Seek a long-term internship opportunity to gain extensive experience and contribute effectively to innovative projects.
+<br>
+
+## 📍 Contact
+- **Email:** [cagla.kacar@hotmail.com](mailto:cagla.kacar@hotmail.com)
+- **LinkedIn:** [linkedin.com/in/cagla-kacar](https://www.linkedin.com/in/cagla-kacar)
