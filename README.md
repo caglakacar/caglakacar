@@ -11,12 +11,10 @@
 <br>
 
 ### 🚀 Skills
-- **Programming Languages:** Python, Matlab, C, C++, C++ (Object-Oriented), C#
-- **Web Development:** Flutter, Firebase, Wix
-- **Data Management:** SQL, InfluxDB, SAP ABAP
-- **Tools & Frameworks:** Docker, Node-RED, Grafana, Flask, Zabbix, Telegraf, Postman
-- **Office Software:** Word, Excel, PowerPoint
-- **ERP Systems:** Bimser Synergy CSP, eBA
+- **Programming Languages:** Python, Matlab, C, C++ (OOP), C#, SAP ABAP, SQL, Dart
+- **Development Frameworks & Tools :** Docker, InfluxDB, Node-RED, Grafana, Zabbix, Flask, Telegraf, Postman, Flutter, Firebase
+- **Business & Productivity Tools :** Bimser Synergy CSP, eBA, Wix, Microsoft Office Suite
+- **AI & Digital Transformation:** Basic knowledge of AI solutions and digital transformation concepts
 <br>
 
 ### 🎯 Goals
