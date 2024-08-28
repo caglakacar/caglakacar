@@ -11,13 +11,12 @@
 <br>
 
 ### 🚀 Skills
-- **Programming Languages:** Python, C, C++, C++ (Object-Oriented), C#
+- **Programming Languages:** Python, Matlab, C, C++, C++ (Object-Oriented), C#
 - **Web Development:** Flutter, Firebase, Wix
 - **Data Management:** SQL, InfluxDB, SAP ABAP
 - **Tools & Frameworks:** Docker, Node-RED, Grafana, Flask, Zabbix, Telegraf, Postman
 - **Office Software:** Word, Excel, PowerPoint
 - **ERP Systems:** Bimser Synergy CSP, eBA
-- **Other:** Matlab
 <br>
 
 ### 🎯 Goals
