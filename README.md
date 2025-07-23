@@ -5,23 +5,25 @@
 
 ### 📚 About Me
 
-- I'm a 4th-year student of **Computer Engineering** at Üsküdar University.
-
-- I've gained practical experience through internships at **NTT DATA Business Solutions, ATM Grup, and Servicepark**, working with SAP ABAP, C#, SQL, and Cloud & DevOps.
+- I'm a **Computer Engineering graduate** from Üsküdar University (100% English) with a GPA of **3.45/4.00**.
+- I aim to specialize in **artificial intelligence** and **software development**, actively contributing to modern and innovative projects.
+- I've gained hands-on experience through internships at **NTT DATA Business Solutions, ATM Grup, and Servicepark**, focusing on SAP ABAP, C#, SQL, and Cloud & DevOps.
 <br>
 
 ### 🚀 Skills
-- **Programming Languages:** Python, Matlab, C, C++ (OOP), C#, SAP ABAP, SQL, Dart
-- **Development Frameworks & Tools :** Docker, InfluxDB, Node-RED, Grafana, Zabbix, Flask, Telegraf, Postman, Flutter, Firebase
-- **Business & Productivity Tools :** Bimser Synergy CSP, eBA, Wix, Microsoft Office Suite
-- **AI & Digital Transformation:** Basic knowledge of AI solutions and digital transformation concepts
+- **Programming Languages:** Python, Matlab, C, C++ (OOP, Multithreading), C#, SAP ABAP, SQL, Dart
+- **Machine Learning & Data Analysis:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras, PyTorch, NLP (TextBlob/NLTK)
+- **Computer Vision (CV):** OpenCV, YOLOv8
+- **Development Frameworks & Tools:** Docker, InfluxDB, Node-RED, Grafana, Zabbix, Flask, Telegraf, Postman, Git
+- **Mobile & Web Development:** Flutter, Firebase, HTML/CSS/JS
+- **Business & Productivity Tools:** Bimser Synergy CSP, eBA, Wix, Microsoft Office Suite
 <br>
 
 ### 🎯 Goals
-- Work on projects related to **digital transformation** and **artificial intelligence**.
-- Further develop my software development skills.
-- Continuously learn and grow in the technology and engineering fields.
-- Seek a long-term internship opportunity to gain extensive experience and contribute effectively to innovative projects.
+- Develop impactful projects in **digital transformation** and **AI-based solutions**.
+- Deepen my expertise in software engineering and cloud technologies.
+- Contribute to innovative teams and challenging projects in the tech industry.
+- Continuously improve by exploring **ML, NLP, and Computer Vision** technologies.
 <br>
 
 ### 📍 Contact
